@@ -1,9 +1,9 @@
-#Diego
+# Diego
 
 ## Favorite Color
 - blues
 
-##Favorite Number
+## Favorite Number
 - 0
 
 *I have more than one favorite video game*
