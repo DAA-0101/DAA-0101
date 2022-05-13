@@ -1,11 +1,10 @@
-Diego
-## H2 **bold text** Hobbies
-- drawing
-- making beats
-- playing videogames
-- watching anime
+Diego # H1
 
-## H2 **bold text** Favorite Class
-- Computer Science
+Favorite Color ## H2
+- blues
 
-### H3 *italicized text* I really love ramen
+Favorite Number ## H2
+- 0
+
+I have more than one favorite video game *italicized*
+
