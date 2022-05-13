@@ -1,10 +1,10 @@
-Diego # H1
+# Diego
 
-Favorite Color ## H2
+## Favorite Color
 - blues
 
-Favorite Number ## H2
+## Favorite Number
 - 0
 
-I have more than one favorite video game *italicized*
+*I have more than one favorite video game*
 
